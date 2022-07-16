@@ -3,7 +3,6 @@ An implementation for "A Unified Meta-Learning Framework for Dynamic Transfer Le
 
 ## Environment Requirements
 The code has been tested under Python 3.6.5. The required packages are as follows:
-* Python 3.6
 * numpy==1.18.1
 * torch==1.4.0
 * torchvision==0.5.0
