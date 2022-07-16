@@ -9,7 +9,7 @@ The code has been tested under Python 3.6.5. The required packages are as follow
 * higher==0.2.1
 * Pillow==7.0.0
 
-## Data sets
+## Data Sets
 We used the following data sets in our experiments:
 * [Office-31](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/)
 * [Image-CLEF](https://drive.google.com/file/d/0B9kJH0-rJ2uRS3JILThaQXJhQlk/view)
