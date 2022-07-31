@@ -1,5 +1,5 @@
 # L2E
-An implementation for "A Unified Meta-Learning Framework for Dynamic Transfer Learning" (IJCAI'22) [[arXiv]](https://arxiv.org/pdf/2207.01784.pdf).
+An implementation for "A Unified Meta-Learning Framework for Dynamic Transfer Learning" (IJCAI'22) [[Paper]](https://www.ijcai.org/proceedings/2022/496)[[arXiv]](https://arxiv.org/pdf/2207.01784.pdf).
 
 ## Environment Requirements
 The code has been tested under Python 3.6.5. The required packages are as follows:
