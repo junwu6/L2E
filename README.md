@@ -34,7 +34,8 @@ This is the latest source code of **L2E** for IJCAI-2022. If you find that it is
 @inproceedings{wu2022unified,
   title={A Unified Meta-Learning Framework for Dynamic Transfer Learning},
   author={Wu, Jun and He, Jingrui},
-  booktitle={International Joint Conference on Artificial Intelligence},
+  booktitle={Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence},
+  pages={3573--3579},
   year={2022}
 }
 ```
